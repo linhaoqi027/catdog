@@ -1,4 +1,5 @@
 # catdog
+address https://www.lintcode.com/ai/cats-and-dogs/overview  
 environment :python 3.6,cuda 10.0 ,pytorch ,torchvision  
 dataset.py 数据加载  
 network.py 定义网络resnet和lenet  
